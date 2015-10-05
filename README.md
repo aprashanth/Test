@@ -1,2 +1,6 @@
 # Test 1
-# First Edit
+
+Hi Humans,
+
+Here is my first edit of the file in GitHub !!
+
